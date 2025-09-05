@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Sakshi Chandwade<br>🎓 I'm a 3rd year CSE-AIML  <br>🌱 Currently learning web development and Python  <br>💡 Interested in open-source, AI, and building real-world projects  <br>💻 I'm working on improving my coding skills and contributing to beginner-friendly projects 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SakshiChandwade&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshichandwade) 
@@ -11,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=SakshiChandwade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SakshiChandwade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiChandwade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SakshiChandwade&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
